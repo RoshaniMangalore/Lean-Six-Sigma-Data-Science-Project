@@ -23,6 +23,6 @@ Web Application with the following functionalities:
 
 Flask : Python Web Framework 
 
-ML algorithms implemented : Random Forest, Logistic Regression, Deep Learning (Multi-layer Perceptron, Ensemble Model)
+ML algorithms implemented : Random Forest, Logistic Regression, Deep Learning (Multi-layer Perceptron), Ensemble Model
 
 Statistics Concepts : Chi square test , student-t test
