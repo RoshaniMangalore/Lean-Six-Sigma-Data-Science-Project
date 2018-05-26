@@ -4,8 +4,9 @@ Background : Approximately 14,000 patients are listed and waiting for orthotopic
 There is a need to identify who the potential liver recipient is given that there are comparatively lesser number of liver donors.
 
 Lean Six sigma principles were adopted during the implementation of the project.
-Deliverable: Web Application with the following functionalities:
 
+## Deliverable: 
+Web Application with the following functionalities:
 
 •	Top clinical features influencing the identification of potential recipient
 
@@ -18,7 +19,7 @@ Deliverable: Web Application with the following functionalities:
 
 
 
-Technologies: 
+## Technologies: 
 
 Flask : Python Web Framework 
 
