@@ -1,4 +1,4 @@
-# Lean-Six-Sigma-Data-Science-Project
+# Liver-Matching-and-Prediction-for-effective-transplantations
 
 Background : Approximately 14,000 patients are listed and waiting for orthotopic liver transplantation (OLT) but only 7,000 OLTs are performed annually.
 There is a need to identify who the potential liver recipient is given that there are comparatively lesser number of liver donors.
